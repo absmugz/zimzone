@@ -1,0 +1,11 @@
+.D*
+._*
+node*
+/public/*.php
+/public/*.txt
+/public/*.html
+/public/wp-admin
+/public/wp-includes
+/public/wp-content/uploads/**/*
+/public/wp-content/themes/*/node*
+public/wp-content/themes/backpackers/dist/*
